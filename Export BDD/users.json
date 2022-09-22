@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "632c5d814a068e287266375a"
+  },
+  "username": "Maintenance",
+  "password": "$2a$08$hB8EqXOkgzYUbo8MONA8XebF27bhwUn4AJ9V.gj4j7b/XBxg/tfdK",
+  "roles": [
+    {
+      "$oid": "62befab8b460b96542f1f89f"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "632c5da54a068e2872663846"
+  },
+  "username": "Capitainerie",
+  "password": "$2a$08$qO7yLlnLBVW/sSAM9bjME.1.6TCMdbjFR0ZNGbQ6Tm2RTqVrVtZ06",
+  "roles": [
+    {
+      "$oid": "62befab8b460b96542f1f89e"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "632c5dbc4a068e28726638c1"
+  },
+  "username": "Restreint",
+  "password": "$2a$08$vziOgA3Hh.yVRDuFaxzGAuLBrril2SEKUKc9hHWzgf72242ZkxGt6",
+  "roles": [
+    {
+      "$oid": "62befab8b460b96542f1f89d"
+    }
+  ],
+  "__v": 1
+}]
