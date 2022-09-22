@@ -1,10 +1,10 @@
-import express from 'express';
-import mongoose from 'mongoose';
-import bodyparser from "body-parser";
+const express = require('express');
+const mongoose = require('mongoose');
+const bodyparser = require("body-parser");
 import { initialization } from './initialization'
 
 const fileupload = require("express-fileupload");
-import cors from 'cors';
+const cors = require('cors');
 
 import routes from './routes/appRoutes';
 
